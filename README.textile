@@ -89,7 +89,7 @@ h3. Footnotes
 
 fn1. unengaged: A people group is engaged when a church planting strategy, consistent with Evangelical faith and practice, is under implementation. (http://www.joshuaproject.net/definitions.php)
 
-fn2. Joshua Project, http://www.joshuaproject.net/
+fn2. Joshua Project, http://www.joshuaproject.net/:"http://www.joshuaproject.net/"
 
 fn3. reached: A people group that has a biblical, national church that is self-governing, self-supporting and healthy as evidenced by its making disciples of its own people-group.
 
@@ -106,7 +106,7 @@ This issue of 'as you are going' is important, because it can be used to say 'lo
 
 This appendix is to rebut that claim and support the claim that we are commanded to go.
 
-http://bible.cc/matthew/28-19.htm
+http://bible.cc/matthew/28-19.htm:"http://bible.cc/matthew/28-19.htm"
 
 <dl>
 	<dt>New International Version (©1984)</dt>
@@ -149,7 +149,7 @@ h2. Appendix B
 
 Also addressing did Jesus say, "As you are going" make disciples, a cut and paste from the an online interlinear Bible of the key words.
 
-http://interlinearbible.org/matthew/28-19.htm
+http://interlinearbible.org/matthew/28-19.htm:"http://interlinearbible.org/matthew/28-19.htm"
 
 <dl>
 	<dt>Verse 19</dt>
