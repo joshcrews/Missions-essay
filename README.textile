@@ -1,6 +1,6 @@
 h1. Go to All Nations
 
-On why we must prioritize the discipling of unreached and unengaged[1] people groups over general Global Outreach
+On why we must prioritize the discipling of unreached[1] and unengaged[2] people groups over general Global Outreach
 
 bq. Matthew 28:19 Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
 
@@ -38,7 +38,7 @@ If this is true, we must now ask the question,  Where are nations that are not d
 
 h2. A look at the data from the Joshua Project, an online Christian data collector for the progress of the Great Commission
 
-At the Joshua Project[2], if you search for Unengaged people groups, you get these results by region (as of 2/1/2011)
+At the Joshua Project[3], if you search for Unengaged people groups, you get these results by region (as of 2/1/2011)
 
 
 # North America incl. Caribbean (4 groups, totalling 4,800 people)
@@ -73,7 +73,7 @@ h2. In conclusion
 
 Gosh!  There’s a gold mine of Great Commission opportunities sitting there for any church with the means to start reaching.  Better--working towards completing the Great Commission is guaranteed success.  Every prayer and cup of cold water for the unreached peoples is guaranteed to ultimately bear fruit.
 
-A church could go to nations (people groups) that are already reached[3], but if it prioritizes reached groups at the expense of unreached groups it is being disobedient to the Great Commission.  The Great Commission is only closer to completion as a new nation is taught, baptized and becomes disciples.
+A church could go to nations (people groups) that are already reached[4], but if it prioritizes reached groups at the expense of unreached groups it is being disobedient to the Great Commission.  The Great Commission is only closer to completion as a new nation is taught, baptized and becomes disciples.
 
 If we only work with reached people groups, our labor is in the same category as home ministries just with a broader geographical context.  
 
@@ -87,7 +87,9 @@ What will that sales manager say to his sales force?  “I did not ask you to si
 
 h3. Footnotes
 
-fn1. unengaged: A people group is engaged when a church planting strategy, consistent with Evangelical faith and practice, is under implementation. (http://www.joshuaproject.net/definitions.php)
+fn1. unreached: An unreached or least-reached people is a people group among which there is no indigenous community of believing Christians with adequate numbers and resources to evangelize this people group. ("http://www.joshuaproject.net/definitions.php":http://www.joshuaproject.net/definitions.php)  The people at Joshua Project say that 2% evangelical is there estimated threshold for a church to have within itself the resources to reach the rest of its people.
+
+fn2. unengaged: A people group is engaged when a church planting strategy, consistent with Evangelical faith and practice, is under implementation. ("http://www.joshuaproject.net/definitions.php":http://www.joshuaproject.net/definitions.php)  That means it's even farther behind 'unreached'.
 
 fn2. Joshua Project, "http://www.joshuaproject.net/":http://www.joshuaproject.net/
 
