@@ -100,7 +100,11 @@ fn3. reached: A people group that has a biblical, national church that is self-g
 
 h2. Appendix A
 
-To address the question of didn't Jesus really as "As you are going" make disciples?  If he did, we have poor scholarship in english Bible translation across the major translations.  Here's Matthew 28:19 in multiple translations
+To address the question of didn't Jesus really as "As you are going" make disciples?  If he did, we have poor scholarship in english Bible translation across the major translations.  Here's Matthew 28:19 in multiple translations.
+
+This issue of 'as you are going' is important, because it can be used to say 'local disciple making is sufficient obedience to the Great Commission'.  If that's true, perhaps we are not commanded to go to the unreached people groups.
+
+This appendix is to rebut that claim and support the claim that we are commanded to go.
 
 http://bible.cc/matthew/28-19.htm
 
@@ -110,7 +114,7 @@ http://bible.cc/matthew/28-19.htm
 	<dt>New Living Translation (©2007)</dt> 
 	<dd>Therefore, go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit.</dd>
 	<dt>English Standard Version (©2001)</dt> 
-	<dt>Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,</dt>
+	<dd>Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,</dd>
 	<dt>New American Standard Bible (©1995) </dt>
 	<dd>"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit,</dd>
 	<dt>International Standard Version (©2008) </dt>
