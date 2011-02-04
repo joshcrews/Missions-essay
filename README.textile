@@ -117,31 +117,31 @@ http://bible.cc/matthew/28-19.htm
 	<dd>Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,</dd>
 	<dt>New American Standard Bible (©1995) </dt>
 	<dd>"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit,</dd>
-	<dt>International Standard Version (©2008) </dt>
+	<dt>International Standard Version (©2008)</dt>
 	<dd>Therefore, as you go, disciple people in all nations, baptizing them in the name of the Father, and the Son, and the Holy Spirit,</dd>
-	<dt>GOD'S WORD® Translation (©1995)</dt> 
+	<dt>GOD'S WORD® Translation (©1995)</dt>
 	<dd>So wherever you go, make disciples of all nations: Baptize them in the name of the Father, and of the Son, and of the Holy Spirit.</dd>
-	<dt>King James Bible </dt>
+	<dt>King James Bible</dt>
 	<dd>Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:</dd>
-	<dt>American King James Version </dt>
+	<dt>American King James Version</dt>
 	<dd>Go you therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:</dd>
-	<dt>American Standard Version </dt>
+	<dt>American Standard Version</dt>
 	<dd>Go ye therefore, and make disciples of all the nations, baptizing them into the name of the Father and of the Son and of the Holy Spirit:</dd>
-	<dt>Bible in Basic English </dt>
+	<dt>Bible in Basic English</dt>
 	<dd>Go then, and make disciples of all the nations, giving them baptism in the name of the Father and of the Son and of the Holy Spirit:</dd>
-	<dt>Douay-Rheims Bible </dt>
+	<dt>Douay-Rheims Bible</dt>
 	<dd>Going therefore, teach ye all nations; baptizing them in the name of the Father, and of the Son, and of the Holy Ghost.</dd>
-	<dt>Darby Bible Translation </dt>
+	<dt>Darby Bible Translation</dt>
 	<dd>Go therefore and make disciples of all the nations, baptising them to the name of the Father, and of the Son, and of the Holy Spirit;</dd>
-	<dt>English Revised Version </dt>
+	<dt>English Revised Version</dt>
 	<dd>Go ye therefore, and make disciples of all the nations, baptizing them into the name of the Father and of the Son and of the Holy Ghost:</dd>
-	<dt>Webster's Bible Translation </dt>
+	<dt>Webster's Bible Translation</dt>
 	<dd>Go ye therefore and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit.</dd>
-	<dt>Weymouth New Testament </dt>
+	<dt>Weymouth New Testament</dt>
 	<dd>Go therefore and make disciples of all the nations; baptize them into the name of the Father, and of the Son, and of the Holy Spirit;</dd>
-	<dt>World English Bible </dt>
+	<dt>World English Bible</dt>
 	<dd>Go, and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,</dd>
-	<dt>Young's Literal Translation </dt>
+	<dt>Young's Literal Translation</dt>
 	<dd>having gone, then, disciple all the nations, (baptizing them -- to the name of the Father, and of the Son, and of the Holy Spirit,</dd>
 </dl>
 
