@@ -111,9 +111,9 @@ http://bible.cc/matthew/28-19.htm
 <dl>
 	<dt>New International Version (©1984)</dt>
 	<dd>Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,</dd>
-	<dt>New Living Translation (©2007)</dt> 
+	<dt>New Living Translation (©2007)</dt>
 	<dd>Therefore, go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit.</dd>
-	<dt>English Standard Version (©2001)</dt> 
+	<dt>English Standard Version (©2001)</dt>
 	<dd>Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,</dd>
 	<dt>New American Standard Bible (©1995) </dt>
 	<dd>"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit,</dd>
